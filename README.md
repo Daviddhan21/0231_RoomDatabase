@@ -1,6 +1,8 @@
-# Aplikasi Data Siswa (Room Database)
+Dokumentasi
 
-Implementasi CRUD lokal menggunakan **Room Database**, **Jetpack Compose**, **Navigation Compose**, dan arsitektur **MVVM + Repository Pattern**.
 
-## Screenshot Hasil Running
-![Screenshot Aplikasi](screenshot.png)
+
+![Hasil Run 1](Hasil_Run_1.png)
+
+![Hasil Run 2](Hasil_Run_2.png)
+
